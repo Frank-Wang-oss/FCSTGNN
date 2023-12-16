@@ -151,9 +151,9 @@ if __name__ == '__main__':
         args.window_sample = 300
         args.conv_time_CNN = 6
 
-        args.lstmout_dim = 64
-        args.lstmhidden_dim = 64
-        args.hidden_dim = 64
+        args.lstmout_dim = 24
+        args.lstmhidden_dim = 24
+        args.hidden_dim = 16
 
         args.num_sensor = 10
         args.n_class = 5
