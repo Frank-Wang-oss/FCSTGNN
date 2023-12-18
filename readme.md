@@ -47,7 +47,7 @@ For running the experiments on ISRUC, you need to first run preprocess_ISRUC.py 
 
 # Citation
 
-'''
+```
 @article{Wang2023FullyConnectedSG,
   title={Fully-Connected Spatial-Temporal Graph for Multivariate Time Series Data},
   author={Yucheng Wang and Yuecong Xu and Jianfei Yang and Min Wu and Xiaoli Li and Lihua Xie and Zhenghua Chen},
@@ -56,7 +56,7 @@ For running the experiments on ISRUC, you need to first run preprocess_ISRUC.py 
   volume={abs/2309.05305},
   url={https://api.semanticscholar.org/CorpusID:261682449}
 }
-'''
+```
 
 # Acknowledgement
 
