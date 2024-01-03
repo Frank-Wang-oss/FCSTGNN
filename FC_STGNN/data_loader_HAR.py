@@ -29,7 +29,7 @@ class Load_Dataset(Dataset):
 
         self.len = X_train.shape[0]
         shape = self.x_data.size()
-        self.x_data = self.x_data.reshape(shape[0],shape[1],args.time_denpen_len, args.window_size)
+        self.x_data = self.x_data.reshape(shape[0],shape[1],args.time_denpen_len, args.patch_size)
         self.x_data = torch.transpose(self.x_data, 1,2)
 
 
