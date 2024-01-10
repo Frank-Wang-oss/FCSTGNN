@@ -2,7 +2,7 @@
 
 By: Yucheng Wang, [Yuecong Xu](https://xuyu0010.github.io/), [Jianfei Yang](https://marsyang.site/), [Min Wu](https://sites.google.com/site/wumincf/), [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), [Lihua Xie](https://personal.ntu.edu.sg/elhxie/), [Zhenghua Chen](https://zhenghuantu.github.io/)
 
-# :boom: Our paper has been accepted for publication of AAAI 2024.
+# :boom: Our paper has been accepted for publication of AAAI 2024 (acceptance rate 23.75%).
 
 # Requirements
 
